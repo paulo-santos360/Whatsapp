@@ -1,31 +1,33 @@
-# WhatsApp Web Clone
+🚀 Check out the live demo 
+
+# Clone do WhatsApp Web
+
 ![screencapture-file-C-Users-Paulo-Documents-sites-readme-Whatsapp-index-html-2023-03-30-16_40_01](https://user-images.githubusercontent.com/102436341/228946774-f4ca048d-8f9b-46b0-9586-77b9d2384277.png)
 
-A WhatsApp Web clone created using HTML, CSS, and JavaScript. This project replicates the core features of WhatsApp Web, allowing users to chat with their contacts in real-time, customize their profiles, and receive notifications.
+Um clone do WhatsApp Web criado usando HTML e  CSS. Este projeto replica as principais funcionalidades do WhatsApp Web, permitindo que os usuários conversem com seus contatos em tempo real, personalizem seus perfis e recebam notificações.
 
-## Demo
+## Demonstração
 
-🚀 Check out the live demo [https://paulo-santos360.github.io/Whatsapp/](#your-demo-link).
+🚀 Confira a demonstração ao vivo [https://paulo-santos360.github.io/Whatsapp/](#your-demo-link).
 
-## Features
+## Funcionalidades
 
-🌟 User authentication  
-📱 Real-time chat functionality  
-🔔 Notifications  
-🔍 Search functionality  
-😀 Emoji support  
+🌟 Autenticação de usuário  
+📱 Funcionalidade de chat em tempo real  
+🔔 Notificações  
+🔍 Funcionalidade de busca  
+😀 Suporte a emojis  
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 🔧 HTML  
 🎨 CSS  
-💻 JavaScript  
 🚀 [Font Awesome](https://fontawesome.com/)  
 🔤 Google Fonts  
 
-## Setup
+## Configuração
 
-1. Clone the repository:
+1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-web-clone.git
+   git clone https://github.com/seunomeusuario/clone-do-whatsapp-web.git
